@@ -1,0 +1,11 @@
+{
+  "transforms": {
+    "exposify": {
+      "global": true,
+      "expose": {
+        "react": "Package.react-runtime.React",
+        "react-dom": "Package.react-runtime.ReactDOM"
+      }
+    }
+  }
+}
